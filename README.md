@@ -269,10 +269,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Calibration Manual](docs/calibration.md)
 
 ### Contact Information
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@domain.com]
-- **Issues**: [GitHub Issues Page]
-- **Discussions**: [GitHub Discussions]
+- **Project Maintainer**: Sumudika Dilshan
+- **Email**: sumudika1@gmail.com
 
 ## Acknowledgments
 
@@ -288,13 +286,14 @@ If you use this system in your research, please cite:
 ```bibtex
 @misc{mango_sorting_system,
   title={Automated Mango Sorting System Using Computer Vision},
-  author={[Your Name]},
+  author={[Sumudika Dilshan]},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/yourusername/mango-sorting-system}
+  url={(https://github.com/Sumudika-Dilshan/Mango-Sorting-System.git)}
 }
 ```
 
 ---
+
 
 **Note**: This system is designed for educational and research purposes. For commercial deployment, ensure compliance with food safety regulations and industrial standards in your region.
